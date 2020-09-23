@@ -1,0 +1,16 @@
+
+
+Adam: 
+-Need images for 3 "destinations" page. Use your imagination and think about a planet or other celestial body that would be really cool to explore.
+-Need LOGO and final image for Home page
+-Need final color scheme for Rahat, including background and text color schemes.
+-Need 1 "destination" page finished
+
+Rahat: 
+-Need footer fixed
+-Need 1 "destination" page finished.
+-Add border to the site? It will help to make everything look complete
+
+Dale:
+-Will work on Destination and Tour Packages page once the basic template is in place 
+-Will add pictures and write bios to the team page
